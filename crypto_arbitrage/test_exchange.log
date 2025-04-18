@@ -1,0 +1,80 @@
+2025-04-18 01:39:20,989 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1403 simbol dari Binance REST API
+2025-04-18 01:39:23,519 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 3066 ticker 24 jam dari Binance REST API
+2025-04-18 01:39:23,522 - crypto_arbitrage.exchange - INFO - Menghubungkan ke Binance WebSocket (percobaan ke-1)...
+2025-04-18 01:39:25,332 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1317 simbol dari KuCoin REST API
+2025-04-18 01:39:27,887 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1316 ticker dari KuCoin REST API
+2025-04-18 01:39:29,092 - crypto_arbitrage.exchange - INFO - Berhasil mendapatkan token KuCoin WebSocket, ping interval: 18s
+2025-04-18 01:39:29,093 - crypto_arbitrage.exchange - INFO - Menghubungkan ke KuCoin WebSocket (percobaan ke-1)...
+2025-04-18 01:39:31,398 - crypto_arbitrage.exchange - INFO - Terhubung ke Binance WebSocket
+2025-04-18 01:39:31,905 - crypto_arbitrage.exchange - INFO - Terhubung ke KuCoin WebSocket
+2025-04-18 01:39:32,578 - crypto_arbitrage.exchange - INFO - Berhasil berlangganan ke topik KuCoin: 1744915171905
+2025-04-18 01:39:32,578 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:33,505 - crypto_arbitrage.exchange - DEBUG - Diperbarui 192 harga Binance
+2025-04-18 01:39:33,580 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:33,934 - crypto_arbitrage.exchange - DEBUG - Diperbarui 126 harga Binance
+2025-04-18 01:39:34,597 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:34,804 - crypto_arbitrage.exchange - DEBUG - Diperbarui 55 harga Binance
+2025-04-18 01:39:35,604 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:36,033 - crypto_arbitrage.exchange - DEBUG - Diperbarui 54 harga Binance
+2025-04-18 01:39:36,627 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:36,809 - crypto_arbitrage.exchange - DEBUG - Diperbarui 52 harga Binance
+2025-04-18 01:39:37,646 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:37,786 - crypto_arbitrage.exchange - DEBUG - Diperbarui 33 harga Binance
+2025-04-18 01:39:38,659 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:38,779 - crypto_arbitrage.exchange - DEBUG - Diperbarui 37 harga Binance
+2025-04-18 01:39:39,681 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:39,862 - crypto_arbitrage.exchange - DEBUG - Diperbarui 61 harga Binance
+2025-04-18 01:39:40,688 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:40,796 - crypto_arbitrage.exchange - DEBUG - Diperbarui 31 harga Binance
+2025-04-18 01:39:41,692 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:41,779 - crypto_arbitrage.exchange - DEBUG - Diperbarui 26 harga Binance
+2025-04-18 01:39:42,712 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:42,897 - crypto_arbitrage.exchange - DEBUG - Diperbarui 54 harga Binance
+2025-04-18 01:39:43,794 - crypto_arbitrage.exchange - DEBUG - Diperbarui 32 harga Binance
+2025-04-18 01:39:43,876 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:44,901 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:45,908 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:46,928 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:48,051 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:49,197 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:50,203 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:39:58,995 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1403 simbol dari Binance REST API
+2025-04-18 01:40:01,939 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 3066 ticker 24 jam dari Binance REST API
+2025-04-18 01:40:01,940 - crypto_arbitrage.exchange - INFO - Menghubungkan ke Binance WebSocket (percobaan ke-1)...
+2025-04-18 01:40:04,072 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1317 simbol dari KuCoin REST API
+2025-04-18 01:40:06,510 - crypto_arbitrage.exchange - INFO - Berhasil mengambil 1316 ticker dari KuCoin REST API
+2025-04-18 01:40:08,408 - crypto_arbitrage.exchange - INFO - Berhasil mendapatkan token KuCoin WebSocket, ping interval: 18s
+2025-04-18 01:40:08,409 - crypto_arbitrage.exchange - INFO - Menghubungkan ke KuCoin WebSocket (percobaan ke-1)...
+2025-04-18 01:40:10,856 - crypto_arbitrage.exchange - INFO - Terhubung ke Binance WebSocket
+2025-04-18 01:40:11,109 - crypto_arbitrage.exchange - INFO - Terhubung ke KuCoin WebSocket
+2025-04-18 01:40:11,801 - crypto_arbitrage.exchange - INFO - Berhasil berlangganan ke topik KuCoin: 1744915211110
+2025-04-18 01:40:11,845 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:12,160 - crypto_arbitrage.exchange - DEBUG - Diperbarui 113 harga Binance
+2025-04-18 01:40:12,848 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:12,898 - crypto_arbitrage.exchange - DEBUG - Diperbarui 58 harga Binance
+2025-04-18 01:40:13,843 - crypto_arbitrage.exchange - DEBUG - Diperbarui 35 harga Binance
+2025-04-18 01:40:13,862 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:14,856 - crypto_arbitrage.exchange - DEBUG - Diperbarui 34 harga Binance
+2025-04-18 01:40:14,857 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:15,856 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:15,865 - crypto_arbitrage.exchange - DEBUG - Diperbarui 38 harga Binance
+2025-04-18 01:40:16,848 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:17,067 - crypto_arbitrage.exchange - DEBUG - Diperbarui 73 harga Binance
+2025-04-18 01:40:17,833 - crypto_arbitrage.exchange - DEBUG - Diperbarui 63 harga Binance
+2025-04-18 01:40:17,864 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:18,786 - crypto_arbitrage.exchange - DEBUG - Diperbarui 42 harga Binance
+2025-04-18 01:40:18,866 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:19,765 - crypto_arbitrage.exchange - DEBUG - Diperbarui 22 harga Binance
+2025-04-18 01:40:19,878 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:20,769 - crypto_arbitrage.exchange - DEBUG - Diperbarui 31 harga Binance
+2025-04-18 01:40:20,882 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:21,887 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:22,059 - crypto_arbitrage.exchange - DEBUG - Diperbarui 36 harga Binance
+2025-04-18 01:40:22,798 - crypto_arbitrage.exchange - DEBUG - Diperbarui 29 harga Binance
+2025-04-18 01:40:22,899 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:24,028 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:25,079 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:26,102 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:27,120 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:28,122 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
+2025-04-18 01:40:29,124 - crypto_arbitrage.exchange - ERROR - Error memproses data KuCoin: 'volValue'
